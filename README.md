@@ -34,5 +34,5 @@
 <hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammar-syed&show_icons=true&locale=en&layout=compact" alt="sammar-syed" /></p>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/syedofficial92@gmail.com"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="syedofficial92@gmail.com" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/sammarabbas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="syedofficial92@gmail.com" /></a></p><br><br>
 
