@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **MongoDB, Express js, React js, Node js**
 
-- 📫 How to reach me **sammarabbas.kcsf18@iba-suk.edu.pk**
+- 📫 How to reach me **abbas.sammarsyed@gmail.com**
 <div class="">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
