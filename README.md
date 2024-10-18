@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Buyezna](https://www.linkedin.com/company/buyenza-official/)
 
-- 👨‍💻 All of my projects are available at [https://sammarabbas.mernweb.com/](https://sammarabbas.mernweb.com/)
+- 👨‍💻 All of my projects are available at [https://sammarabbas.mernweb.com/](https://sammarabbas.com/)
 
 - 💬 Ask me about **MongoDB, Express js, React js, Node js**
 
